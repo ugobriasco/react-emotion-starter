@@ -1,7 +1,6 @@
 {
-  "name": "groceryhub",
-  "version": "0.1.0",
-  "private": true,
+  "name": "react-emotion-starter",
+  "version": "0.1",
   "dependencies": {
     "axios": "^0.18.0",
     "color": "^3.0.0",
